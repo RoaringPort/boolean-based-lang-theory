@@ -28,3 +28,17 @@ The operators of the Reals will be, skipping the basic operation (+, -, *, /) ar
    - Example: c = a ** b;
 
 ###### Sqrt or root will not be included in the list but will be included in a math module
+
+## Booleans
+
+The booleans type will be compose with two values: `true` and `false`.
+
+There will not be operators in this type, cause it will be replaced with functions
+
+## String
+
+The string will be a C vector of chars this means it will be this means it will be constants.
+
+The value will be composed with a ASCII character.
+
+[Variables](info/Variables.md)
